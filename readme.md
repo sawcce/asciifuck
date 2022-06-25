@@ -12,7 +12,7 @@ This is a really simple compiler:
 Any other character is ignored
 ```
 
-Run `cargo install --path .` to install the cli globally on your computer under the name of `asciifuck`. 
+Clone the repository, cd into it, then run `cargo install --path .` to install the cli globally on your computer under the name of `asciifuck`. 
 
 Then, run `asciifuck help` to get to know how to use the tool.
 
